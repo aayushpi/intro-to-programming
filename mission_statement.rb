@@ -10,7 +10,7 @@ if choice == 1
 	For this reason, I'll love to have a goal to eventually become a full-stack 
 	developer who can prototype ideas and make them come to life. 
 	Hopefully.
-	MYSTATEMENT
+MYSTATEMENT
 elsif choice == 2
 	puts "ONE BILLION DOLLARS (DRAMATIC DR.EVIL POSE"
 else
