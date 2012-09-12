@@ -2,7 +2,7 @@ puts "Enter 1 for the inspiring answer, and 2 for the real answer"
 
 choice = gets.chomp()
 
-puts "#{choice}"
+# puts "#{choice}"
 
 if choice == "1"
     puts <<MYSTATEMENT
