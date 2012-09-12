@@ -15,7 +15,10 @@ if choice == "1"
 MYSTATEMENT
 
 elsif choice == "2"
-	puts "ONE BILLION DOLLARS (DRAMATIC DR.EVIL POSE)"
+	for i in 0..400000
+   puts "$500 $500 $500 $500 $500"
+end
+	puts "ONE BILLION DOLLARS (DRAMATIC DR.EVIL POSE). So yes, I'd love to learn to code in detail, please"
 
 else
 	puts "You only have two choices, Mr. Anderson"		
