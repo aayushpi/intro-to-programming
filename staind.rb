@@ -1,4 +1,4 @@
-table_side=8
+table_side=6
 table_depth= 0.291
 tables=4
 
