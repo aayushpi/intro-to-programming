@@ -2,6 +2,7 @@ new_year = Time.local(2013, "Jan", 1,0,0,0).to_i
 current = Time.now.to_i
 doomsday = Time.local(2012, "Dec", 21,0,0,0).to_i
 
+# divmod() :: http://www.ruby-doc.org/core-1.9.3/Numeric.html#method-i-divmod
 
 def times_change(start,finish)
 	report = Hash.new
